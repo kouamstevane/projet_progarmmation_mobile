@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TD3</string>
+    <string name="title_activity_level">LevelActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button">Click the button!</string>
+    <string name="init">Start again</string>
+    <string name="score">Score:</string>
+    <string name="level">Level:</string>
+    <string name="newLevel">You won a new level! Current level:</string>
+    <string name="launches">Number of times:</string>
+    <string name="back">Back</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+
+    <string name="textSizeSettings">Setting the text size</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+
+</resources>
